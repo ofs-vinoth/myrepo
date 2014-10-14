@@ -11,6 +11,7 @@ public class EmployeeBean {
 	private String gross;
 	private String deduc;
 	private String np;
+	private String age;
 
 	/**
 	 * @return the gross
