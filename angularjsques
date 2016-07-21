@@ -1,0 +1,32 @@
+
+  1.  Dependency Injection
+  2.  How do you bootstrap your app
+  3.  Automatic Initialization of angular
+  4.  ng-strict-di directive on the same element as ng-app
+  5.  What is a Module
+  6.  How do you define the dependency for a module
+  7.  Different blocks of a module
+  8.  Different actions on bootstraping an angular js app
+  9.  Service vs Factory
+  10. Default scope for directive
+  11. Different type of scope
+  12. Directive definition object (DDO)
+  13. Directive scope inherited from parent
+
+{} scope
+
+1. "@"   (  Text binding / one-way binding )
+2. "="   ( Direct model binding / two-way binding )
+3. "&"   ( Behaviour binding / Method binding  )
+
+14. How to manually initialize AngularJS
+
+JS Questions
+Unit Testing - Karma
+EcmaScript 6
+Promises
+When would you use var in your declaration and when you wouldn't How do you check if a variable is an object Scoping in Javascript JSLint
+
+
+Disclaimer : http://www.objectfrontier.com/maildisclaimer.html
+
